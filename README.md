@@ -56,5 +56,7 @@ How to list branches
 How to move among branches and root/main
 - git checkout main
 
+How to delete a branch
+- git branch --delete update-readmefile
 
 

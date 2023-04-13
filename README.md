@@ -21,4 +21,22 @@ https://helpdeskgeek.com/linux-tips/how-to-install-run-linux-apps-on-a-chromeboo
 - sudo apt-get update
 - sudo apt -y upgrade
 
+Installing Nodejs + NPM on Chromeboo
+https://www.youtube.com/watch?v=A6ouQ1S-YKM
+
+1. Open your terminal
+2. Get updates by running
+- sudo apt-get update
+3. Install curl and gnupg
+- sudo apt-get install curl gnupg -y
+4. Install Nodejs
+- curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+- source .bashrc
+- commnad -v nvm
+- nvm install node
+- node -v
+- npm install -g npm
+- npm -v
+
+
 

@@ -21,7 +21,8 @@ https://helpdeskgeek.com/linux-tips/how-to-install-run-linux-apps-on-a-chromeboo
 - sudo apt-get update
 - sudo apt -y upgrade
 
-Installing Nodejs + NPM on Chromeboo
+Installing Nodejs + NPM on Chromebook
+
 https://www.youtube.com/watch?v=A6ouQ1S-YKM
 
 1. Open your terminal
@@ -37,6 +38,17 @@ https://www.youtube.com/watch?v=A6ouQ1S-YKM
 - node -v
 - npm install -g npm
 - npm -v
+
+How to Install React.js with create-react-app
+
+https://www.freecodecamp.org/news/install-react-with-create-react-app/
+
+1. npx create-react-app react-bootstrap-aws-app
+2. cd react-bootstrap-aws-app
+3. npm start
+
+Note: to remove the directory
+1. rm -rf react-bootstrap-aws-app
 
 
 

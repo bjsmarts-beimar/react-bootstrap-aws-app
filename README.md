@@ -43,12 +43,18 @@ How to Install React.js with create-react-app
 
 https://www.freecodecamp.org/news/install-react-with-create-react-app/
 
-1. npx create-react-app react-bootstrap-aws-app
-2. cd react-bootstrap-aws-app
-3. npm start
+- npx create-react-app react-bootstrap-aws-app
+- cd react-bootstrap-aws-app
+- npm start
 
 Note: to remove the directory
-1. rm -rf react-bootstrap-aws-app
+- rm -rf react-bootstrap-aws-app
+
+How to list branches
+- git branch
+
+How to move among branches and root/main
+- git checkout main
 
 
 
